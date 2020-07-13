@@ -137,3 +137,7 @@ paascloud:
       qiniuPath: alipay/QRCode/
   zk:
     zkAddressList: paascloud-provider-zk:2181
+
+test:
+  cat:
+    info: hello world
